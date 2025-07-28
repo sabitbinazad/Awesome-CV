@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737747215.20393 "/Users/sabit/Awesome-CV/examples/resume.tex" "resume.pdf" "resume" 1737747215.43258 2
-  "/Users/sabit/Awesome-CV/examples/resume.tex" 1737744296.98498 3855 33673a1971ed9cf6eb0c7715b71401d4 ""
+["pdflatex"] 1752502406.58749 "/Users/sabit/Awesome-CV/examples/resume.tex" "resume.pdf" "resume" 1752502406.81795 2
+  "/Users/sabit/Awesome-CV/examples/resume.tex" 1752497072.98922 3840 faa9ad116ec55f78303cb85209b8e7ba ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -35,7 +35,7 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "awesome-cv.cls" 1736255132.66587 29600 8d40609025f93862de82a3e783397186 ""
   "resume.aux" 0 -1 0 "pdflatex"
-  "resume.tex" 1737744296.98498 3855 33673a1971ed9cf6eb0c7715b71401d4 ""
+  "resume.tex" 1752497072.98922 3840 faa9ad116ec55f78303cb85209b8e7ba ""
   (generated)
   "resume.aux"
   "resume.log"
